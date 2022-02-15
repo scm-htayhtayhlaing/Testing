@@ -1,0 +1,7 @@
+D:\SCM\Training\1\Testing\Testing\bin\Debug\Testing.exe.config
+D:\SCM\Training\1\Testing\Testing\bin\Debug\Testing.exe
+D:\SCM\Training\1\Testing\Testing\bin\Debug\Testing.pdb
+D:\SCM\Training\1\Testing\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+D:\SCM\Training\1\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\SCM\Training\1\Testing\Testing\obj\Debug\Testing.exe
+D:\SCM\Training\1\Testing\Testing\obj\Debug\Testing.pdb
